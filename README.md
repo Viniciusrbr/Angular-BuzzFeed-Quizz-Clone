@@ -1,4 +1,11 @@
 # BuzzFeedQuizClone
+Projeto final da Formação Angular Developer da <a href="https://www.dio.me/">Dio</a> de um clone de Quizz do site da BuzzFeed
+
+O resultado final foi o da imagem abaixo:
+
+![Resultado Final](imgs_projeto/projeto-resultado.png)
+
+<hr>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
 
